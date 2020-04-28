@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
         <meta-data android:name="com.google.ar.core" android:value="required" />
-        <meta-data android:name="com.google.android.ar.API_KEY" android:value="AIzaSyBW_gDGhVWR22KYs-nN8XWYftnNEm6qxhg" />
+        <meta-data android:name="com.google.android.ar.API_KEY" android:value="<Your-API-Key>" />
     </application>
 
 </manifest>
